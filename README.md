@@ -1,81 +1,46 @@
-# Hi, I'm Zach 👋  
-### CS Student • Software Engineer • Java Backend Developer
+# Zach Kidwell  
+Computer Science Student | Software Engineering
 
-I'm a Computer Science student passionate about building clean, reliable, and scalable software.  
-Most of my projects focus on **Java, Spring Boot, PostgreSQL, APIs, and backend engineering**, but I also enjoy exploring full-stack development and improving my understanding of core CS concepts.
+I am a Computer Science student at the University of Houston–Clear Lake with a concentration in Software Engineering. My interests include Java backend development, concurrent systems, mobile application development, and AI/ML.
 
----
+## Education
+University of Houston–Clear Lake  
+B.S. in Computer Science, Expected Dec. 2026  
+Relevant Coursework: Advanced Enterprise Java, Advanced Data Structures & Algorithms, Software Engineering, Mobile Application Development, Artificial Intelligence, Object-Oriented Design, Computer Architecture
 
-## 🔧 Technologies & Tools I Work With
+## Experience
+AI Fellow (Handshake)  
+Jan 2026 – Present  
+- Evaluated large language model outputs on system design and software engineering topics  
+- Analyzed AI-generated responses for technical accuracy, clarity, and reasoning quality  
 
-### **Languages**
-- Java (Primary)
-- Python
-- SQL
-- JavaScript
+Software Developer (Too Quick Lights - local business)  
+Sept 2025 – Nov 2025  
+- Built an Android app prototype in Kotlin for showcasing Christmas light installations  
+- Developed a React + Tailwind web app with PostgreSQL integration for customer inquiries  
 
-### **Backend / Frameworks**
-- Spring Boot  
-- REST API Development  
-- JPA / Hibernate  
-- Maven
+## Projects
+Course Evaluation Simulator (Java, MySQL, JSF)  
+- Built a full-stack course survey system using JDBC, DAO architecture, and JSF  
 
-### **Databases**
-- PostgreSQL  
-- MySQL  
-- H2 (Testing)
+Medium.com Archive Redirector (Chrome Extension)  
+- Created an extension that redirects paywalled articles to archived versions  
 
-### **Frontend**
-- HTML / CSS / JS  
-- React (learning)
+Interactive 3D Molecule Renderer (Java, Swing)  
+- Built a custom 3D rendering engine with real-time rotation and lighting  
 
-### **Tools & Platforms**
-- Git / GitHub  
-- IntelliJ IDEA  
-- Postman  
-- Docker (learning)  
-- Android Studio
-- XCode
-- Spring Boot
+## Skills
+Languages: Java, Python, JavaScript, C/C++, Kotlin, Swift  
+Backend: Spring Boot, JPA/Hibernate, REST APIs  
+Mobile: Android Studio, UIKit, SwiftUI  
+Databases: PostgreSQL, MySQL, MongoDB  
+Tools: Git, AWS, Linux  
 
----
+## Focus Areas
+- Java and concurrent programming  
+- Backend system design  
+- Mobile app development  
+- AI and machine learning  
 
-## 🚀 What I'm Working On
-- Building real backend applications with **Spring Boot + PostgreSQL**
-- Improving my **Data Structures & Algorithms** skills
-- Creating projects that showcase full-stack and backend engineering
-- Strengthening system design and clean architecture understanding
-
----
-
-## 📌 Featured Projects
-
-### **🔹 Data Structure Visualizer (Java / Swing)**
-Interactive tool visualizing arrays, linked lists, stacks, queues, and binary trees.
-
-### **🔹 Spring Boot API + PostgreSQL**
-Backend service with CRUD operations, JPA, and authentication (in progress).
-
-### **🔹 Chrome Extension – Archive Paywall Bypass**
-Redirects news sites to archived versions for free reading.
-
-*(More projects coming soon — building and deploying regularly!)*
-
----
-
-## 📚 About Me
-- 🎓 CS student aiming for SWE / Backend Engineering  
-- ☕ Java is my strongest language  
-- 📈 Always learning, building, and improving  
-- 🧠 Interested in backend systems, APIs, databases, and distributed systems  
-- 💼 Open to internships and opportunities in software engineering and mobile development
-
----
-
-## 🤝 Let's Connect
-- **Phone Number:** 281-508-2003
-- **Email:** zlkidwell@gmail.com
-
----
-
-⭐ *Thanks for visiting! Check out my repositories below — I'm always working on something new.*
+## Contact
+Email: zlkidwell@gmail.com  
